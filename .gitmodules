@@ -1,0 +1,3 @@
+[submodule "ext/Megatron-LM"]
+	path = ext/Megatron-LM
+	url = https://github.com/NVIDIA/Megatron-LM.git
